@@ -5,13 +5,13 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Healt Explore</title>
+        <title>Health Explore</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      <body className="bg-gray-100 h-screen">
+      <div className="bg-gray-100 h-screen">
         <Navbar />
         {children}
-      </body>
+      </div>
     </>
   );
 };
