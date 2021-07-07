@@ -23,7 +23,7 @@ const Footer = () => {
               <div>
                 <a
                   href="#"
-                  className="text-2xl font-semibold text-gray-800 hover:text-gray-700"
+                  className="text-2xl font-medium text-gray-800 hover:text-gray-700"
                 >
                   About Us
                 </a>
