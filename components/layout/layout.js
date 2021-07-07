@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Navbar from './navbar';
+import Footer from './footer';
 
 const Layout = ({ children }) => {
   return (
@@ -11,6 +12,7 @@ const Layout = ({ children }) => {
       <div className="bg-gray-100 h-screen">
         <Navbar />
         {children}
+        <Footer />
       </div>
     </>
   );
