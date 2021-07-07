@@ -3,7 +3,7 @@ import clsx from 'clsx';
 const FilterCard = ({ title, items, ...props }) => {
   return (
     <div {...props}>
-      <div className="w-full bg-white border border-gray-200">
+      <div className="w-full bg-white border border-gray-200 rounded-lg">
         <div className="flex flex-col items-start ml-4 mr-3">
           <span className="uppercase mt-4 font-medium text-sm">{title}</span>
           <ul className="mt-3 mb-3">

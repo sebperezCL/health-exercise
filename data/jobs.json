@@ -39,13 +39,8 @@
         "city": "Mammoth Lakes, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "LPN Charge Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          22.22,
-          33.32
-        ],
+        "hours": [10],
+        "salary_range": [22.22, 33.32],
         "job_type": "Part-time"
       },
       {
@@ -83,13 +78,8 @@
         "city": "Mammoth Lakes, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "RN Intensive Care Unit",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          39.09,
-          55.43
-        ],
+        "hours": [8],
+        "salary_range": [39.09, 55.43],
         "job_type": "Traveler"
       },
       {
@@ -127,13 +117,8 @@
         "city": "Mammoth Lakes, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Oncology Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          30.26,
-          47.02
-        ],
+        "hours": [16],
+        "salary_range": [30.26, 47.02],
         "job_type": "Full-time"
       },
       {
@@ -171,13 +156,8 @@
         "city": "Mammoth Lakes, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nursing Director",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          34.66,
-          52.48
-        ],
+        "hours": [8],
+        "salary_range": [34.66, 52.48],
         "job_type": "Full-time"
       },
       {
@@ -215,13 +195,8 @@
         "city": "Mammoth Lakes, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Infusion Therapy Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          35.16,
-          53.54
-        ],
+        "hours": [10],
+        "salary_range": [35.16, 53.54],
         "job_type": "Full-time"
       },
       {
@@ -259,13 +234,8 @@
         "city": "Mammoth Lakes, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Chief Nursing Officer",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          48.66,
-          79.7
-        ],
+        "hours": [10],
+        "salary_range": [48.66, 79.7],
         "job_type": "Part-time"
       },
       {
@@ -303,13 +273,8 @@
         "city": "Mammoth Lakes, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "General Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          35.95,
-          53.87
-        ],
+        "hours": [10],
+        "salary_range": [35.95, 53.87],
         "job_type": "Part-time"
       },
       {
@@ -347,13 +312,8 @@
         "city": "Mammoth Lakes, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nurse First Assistant",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          32.61,
-          49.67
-        ],
+        "hours": [12],
+        "salary_range": [32.61, 49.67],
         "job_type": "Traveler"
       }
     ]
@@ -398,13 +358,8 @@
         "city": "Fountain Valley, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Family Nurse Practitioner",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          36.95,
-          71.28
-        ],
+        "hours": [12],
+        "salary_range": [36.95, 71.28],
         "job_type": "Full-time"
       },
       {
@@ -442,13 +397,8 @@
         "city": "Fountain Valley, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Certified Nurse Anesthetist",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          41.32,
-          63.79
-        ],
+        "hours": [16],
+        "salary_range": [41.32, 63.79],
         "job_type": "Per-Diem"
       },
       {
@@ -486,13 +436,8 @@
         "city": "Fountain Valley, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "RN Specialist",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          40.27,
-          61.22
-        ],
+        "hours": [10],
+        "salary_range": [40.27, 61.22],
         "job_type": "Part-time"
       },
       {
@@ -530,13 +475,8 @@
         "city": "Fountain Valley, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Geriatrics Nurse Practitioner",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          45.41,
-          71.73
-        ],
+        "hours": [8],
+        "salary_range": [45.41, 71.73],
         "job_type": "Full-time"
       },
       {
@@ -574,13 +514,8 @@
         "city": "Fountain Valley, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Postpartum Nurse",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          32.64,
-          52.65
-        ],
+        "hours": [24],
+        "salary_range": [32.64, 52.65],
         "job_type": "Per-Diem"
       },
       {
@@ -618,13 +553,8 @@
         "city": "Fountain Valley, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Neonatal Nurse",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          31.86,
-          53.18
-        ],
+        "hours": [24],
+        "salary_range": [31.86, 53.18],
         "job_type": "Full-time"
       },
       {
@@ -662,13 +592,8 @@
         "city": "Fountain Valley, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "BSN Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          29.97,
-          47.61
-        ],
+        "hours": [12],
+        "salary_range": [29.97, 47.61],
         "job_type": "Full-time"
       }
     ]
@@ -713,13 +638,8 @@
         "city": "Modesto, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Plastic Surgery Nurse Practitioner",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          42.16,
-          75.49
-        ],
+        "hours": [10],
+        "salary_range": [42.16, 75.49],
         "job_type": "Full-time"
       },
       {
@@ -757,13 +677,8 @@
         "city": "Modesto, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nurse Researcher",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          38.48,
-          60.01
-        ],
+        "hours": [12],
+        "salary_range": [38.48, 60.01],
         "job_type": "Full-time"
       },
       {
@@ -801,13 +716,8 @@
         "city": "Modesto, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Occupational Nurse Practitioner",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          36.69,
-          67.18
-        ],
+        "hours": [12],
+        "salary_range": [36.69, 67.18],
         "job_type": "Per-Diem"
       },
       {
@@ -845,13 +755,8 @@
         "city": "Modesto, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Pediatric Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          32.34,
-          50.49
-        ],
+        "hours": [16],
+        "salary_range": [32.34, 50.49],
         "job_type": "Per-Diem"
       },
       {
@@ -889,13 +794,8 @@
         "city": "Modesto, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "LPN Internal Medicine",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          23.82,
-          35.44
-        ],
+        "hours": [16],
+        "salary_range": [23.82, 35.44],
         "job_type": "Full-time"
       },
       {
@@ -933,13 +833,8 @@
         "city": "Modesto, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Scrub Nurse",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          31.35,
-          50.3
-        ],
+        "hours": [8],
+        "salary_range": [31.35, 50.3],
         "job_type": "Part-time"
       }
     ]
@@ -984,13 +879,8 @@
         "city": "Snellville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Ambulatory Pacu Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          32.5,
-          52.88
-        ],
+        "hours": [10],
+        "salary_range": [32.5, 52.88],
         "job_type": "Per-Diem"
       },
       {
@@ -1028,13 +918,8 @@
         "city": "Snellville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Public Health Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          33.89,
-          50.35
-        ],
+        "hours": [16],
+        "salary_range": [33.89, 50.35],
         "job_type": "Per-Diem"
       },
       {
@@ -1072,13 +957,8 @@
         "city": "Snellville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Cardiology Nurse Practitioner",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          38.72,
-          65.16
-        ],
+        "hours": [10],
+        "salary_range": [38.72, 65.16],
         "job_type": "Full-time"
       },
       {
@@ -1116,13 +996,8 @@
         "city": "Snellville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Psychiatric Nursing Assistant",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          29.74,
-          45.87
-        ],
+        "hours": [12],
+        "salary_range": [29.74, 45.87],
         "job_type": "Per-Diem"
       },
       {
@@ -1160,13 +1035,8 @@
         "city": "Snellville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "RN Intensive Care Unit",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          39.66,
-          55.96
-        ],
+        "hours": [24],
+        "salary_range": [39.66, 55.96],
         "job_type": "Traveler"
       },
       {
@@ -1204,13 +1074,8 @@
         "city": "Snellville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Renal Dialysis Dialysis Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          36.49,
-          54.32
-        ],
+        "hours": [12],
+        "salary_range": [36.49, 54.32],
         "job_type": "Traveler"
       },
       {
@@ -1248,13 +1113,8 @@
         "city": "Snellville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Clinical Nurse Specialist",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          29.48,
-          47.23
-        ],
+        "hours": [8],
+        "salary_range": [29.48, 47.23],
         "job_type": "Per-Diem"
       },
       {
@@ -1292,13 +1152,8 @@
         "city": "Snellville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Scrub Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          31.53,
-          50.35
-        ],
+        "hours": [12],
+        "salary_range": [31.53, 50.35],
         "job_type": "Per-Diem"
       }
     ]
@@ -1343,13 +1198,8 @@
         "city": "Metter, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Psychiatric Nurse Practitioner",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          44.15,
-          68.36
-        ],
+        "hours": [12],
+        "salary_range": [44.15, 68.36],
         "job_type": "Part-time"
       },
       {
@@ -1387,13 +1237,8 @@
         "city": "Metter, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "LPN",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          29.8,
-          45.2
-        ],
+        "hours": [8],
+        "salary_range": [29.8, 45.2],
         "job_type": "Full-time"
       },
       {
@@ -1431,13 +1276,8 @@
         "city": "Metter, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Psychiatric Nurse Practitioner",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          43.85,
-          68.13
-        ],
+        "hours": [24],
+        "salary_range": [43.85, 68.13],
         "job_type": "Part-time"
       },
       {
@@ -1475,13 +1315,8 @@
         "city": "Metter, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Certified Nurse Midwife",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          44.5,
-          75.93
-        ],
+        "hours": [8],
+        "salary_range": [44.5, 75.93],
         "job_type": "Traveler"
       },
       {
@@ -1519,13 +1354,8 @@
         "city": "Metter, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Transplant Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          30.62,
-          47.73
-        ],
+        "hours": [10],
+        "salary_range": [30.62, 47.73],
         "job_type": "Full-time"
       },
       {
@@ -1563,13 +1393,8 @@
         "city": "Metter, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Orthopedic Surgeon",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          76.51,
-          130.11
-        ],
+        "hours": [16],
+        "salary_range": [76.51, 130.11],
         "job_type": "Part-time"
       },
       {
@@ -1607,13 +1432,8 @@
         "city": "Metter, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Dialysis Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          34.84,
-          51.53
-        ],
+        "hours": [16],
+        "salary_range": [34.84, 51.53],
         "job_type": "Full-time"
       }
     ]
@@ -1658,13 +1478,8 @@
         "city": "Garberville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Scrub Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          31.18,
-          50.14
-        ],
+        "hours": [10],
+        "salary_range": [31.18, 50.14],
         "job_type": "Traveler"
       },
       {
@@ -1702,13 +1517,8 @@
         "city": "Garberville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Ambulatory Surgery RN",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          36.03,
-          54.54
-        ],
+        "hours": [10],
+        "salary_range": [36.03, 54.54],
         "job_type": "Full-time"
       },
       {
@@ -1746,13 +1556,8 @@
         "city": "Garberville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Neurology Nurse Practitioner",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          44.89,
-          70.87
-        ],
+        "hours": [16],
+        "salary_range": [44.89, 70.87],
         "job_type": "Per-Diem"
       },
       {
@@ -1790,13 +1595,8 @@
         "city": "Garberville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Hospice Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          29.84,
-          45.3
-        ],
+        "hours": [12],
+        "salary_range": [29.84, 45.3],
         "job_type": "Per-Diem"
       },
       {
@@ -1834,13 +1634,8 @@
         "city": "Garberville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nurse Practitioner",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          47.04,
-          73.52
-        ],
+        "hours": [8],
+        "salary_range": [47.04, 73.52],
         "job_type": "Traveler"
       },
       {
@@ -1878,13 +1673,8 @@
         "city": "Garberville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Emergency Room Nurse Practitioner",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          45.33,
-          77.11
-        ],
+        "hours": [24],
+        "salary_range": [45.33, 77.11],
         "job_type": "Part-time"
       },
       {
@@ -1922,13 +1712,8 @@
         "city": "Garberville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nurse Assistant",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          33.68,
-          50.35
-        ],
+        "hours": [16],
+        "salary_range": [33.68, 50.35],
         "job_type": "Part-time"
       }
     ]
@@ -1973,13 +1758,8 @@
         "city": "Porterville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nursing Director",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          35.42,
-          52.73
-        ],
+        "hours": [10],
+        "salary_range": [35.42, 52.73],
         "job_type": "Traveler"
       },
       {
@@ -2017,13 +1797,8 @@
         "city": "Porterville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Hospitalist Nurse Practitioner",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          55.68,
-          82.36
-        ],
+        "hours": [8],
+        "salary_range": [55.68, 82.36],
         "job_type": "Traveler"
       },
       {
@@ -2061,13 +1836,8 @@
         "city": "Porterville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Anesthesiology Crna",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          55.68,
-          96.83
-        ],
+        "hours": [8],
+        "salary_range": [55.68, 96.83],
         "job_type": "Part-time"
       },
       {
@@ -2105,13 +1875,8 @@
         "city": "Porterville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Urology Nurse Practitioner",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          42.27,
-          70.82
-        ],
+        "hours": [24],
+        "salary_range": [42.27, 70.82],
         "job_type": "Part-time"
       },
       {
@@ -2149,13 +1914,8 @@
         "city": "Porterville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Mental Health Clinician",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          26.45,
-          40.49
-        ],
+        "hours": [12],
+        "salary_range": [26.45, 40.49],
         "job_type": "Traveler"
       },
       {
@@ -2193,13 +1953,8 @@
         "city": "Porterville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Clinical Nurse Specialist",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          28.5,
-          46.81
-        ],
+        "hours": [16],
+        "salary_range": [28.5, 46.81],
         "job_type": "Full-time"
       },
       {
@@ -2237,13 +1992,8 @@
         "city": "Porterville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Emergency Room Registered Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          33.73,
-          52.17
-        ],
+        "hours": [12],
+        "salary_range": [33.73, 52.17],
         "job_type": "Per-Diem"
       },
       {
@@ -2281,13 +2031,8 @@
         "city": "Porterville, CA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Obstetrics Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          39.02,
-          57.28
-        ],
+        "hours": [10],
+        "salary_range": [39.02, 57.28],
         "job_type": "Traveler"
       }
     ]
@@ -2332,13 +2077,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Legal Nurse Consultant",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          14.14,
-          21.41
-        ],
+        "hours": [16],
+        "salary_range": [14.14, 21.41],
         "job_type": "Part-time"
       },
       {
@@ -2376,13 +2116,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Family Nurse Practitioner",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          37.94,
-          71.99
-        ],
+        "hours": [8],
+        "salary_range": [37.94, 71.99],
         "job_type": "Full-time"
       },
       {
@@ -2420,13 +2155,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Infectious Disease Nurse Practitioner",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          45.91,
-          75.76
-        ],
+        "hours": [10],
+        "salary_range": [45.91, 75.76],
         "job_type": "Full-time"
       },
       {
@@ -2464,13 +2194,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nurse First Assistant",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          33.36,
-          50.25
-        ],
+        "hours": [24],
+        "salary_range": [33.36, 50.25],
         "job_type": "Part-time"
       },
       {
@@ -2508,13 +2233,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "ER Nurse",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          34.5,
-          56.5
-        ],
+        "hours": [24],
+        "salary_range": [34.5, 56.5],
         "job_type": "Traveler"
       },
       {
@@ -2552,13 +2272,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Pain Management Nurse Practitioner",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          37.66,
-          66.47
-        ],
+        "hours": [8],
+        "salary_range": [37.66, 66.47],
         "job_type": "Part-time"
       },
       {
@@ -2596,13 +2311,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Oncology Nurse Practitioner",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          48.53,
-          74.04
-        ],
+        "hours": [10],
+        "salary_range": [48.53, 74.04],
         "job_type": "Per-Diem"
       },
       {
@@ -2640,13 +2350,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Family Nurse Practitioner",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          38.67,
-          72.71
-        ],
+        "hours": [12],
+        "salary_range": [38.67, 72.71],
         "job_type": "Part-time"
       },
       {
@@ -2684,13 +2389,8 @@
         "city": "Colquitt, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Chief Nursing Officer",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          49.13,
-          80.31
-        ],
+        "hours": [8],
+        "salary_range": [49.13, 80.31],
         "job_type": "Full-time"
       }
     ]
@@ -2735,13 +2435,8 @@
         "city": "Conyers, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Certified Nursing Assistant",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          23.32,
-          35.75
-        ],
+        "hours": [12],
+        "salary_range": [23.32, 35.75],
         "job_type": "Part-time"
       },
       {
@@ -2779,13 +2474,8 @@
         "city": "Conyers, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "LPN Long Term Care",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          26.84,
-          44.16
-        ],
+        "hours": [16],
+        "salary_range": [26.84, 44.16],
         "job_type": "Full-time"
       },
       {
@@ -2823,13 +2513,8 @@
         "city": "Conyers, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Male Nurse",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          33.91,
-          49.54
-        ],
+        "hours": [24],
+        "salary_range": [33.91, 49.54],
         "job_type": "Part-time"
       },
       {
@@ -2867,13 +2552,8 @@
         "city": "Conyers, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Learning Disabilities Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          25.83,
-          41.95
-        ],
+        "hours": [16],
+        "salary_range": [25.83, 41.95],
         "job_type": "Part-time"
       },
       {
@@ -2911,13 +2591,8 @@
         "city": "Conyers, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "BSN Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          30.88,
-          47.7
-        ],
+        "hours": [10],
+        "salary_range": [30.88, 47.7],
         "job_type": "Traveler"
       }
     ]
@@ -2962,13 +2637,8 @@
         "city": "Louisville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Cardiovascular Nurse",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          34.03,
-          50.5
-        ],
+        "hours": [24],
+        "salary_range": [34.03, 50.5],
         "job_type": "Full-time"
       },
       {
@@ -3006,13 +2676,8 @@
         "city": "Louisville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Hospice Nursing Admissions",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          37.79,
-          68.19
-        ],
+        "hours": [8],
+        "salary_range": [37.79, 68.19],
         "job_type": "Part-time"
       }
     ]
@@ -3057,13 +2722,8 @@
         "city": "Blairsville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nursing Director",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          35.93,
-          52.82
-        ],
+        "hours": [10],
+        "salary_range": [35.93, 52.82],
         "job_type": "Traveler"
       },
       {
@@ -3101,13 +2761,8 @@
         "city": "Blairsville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Legal Nurse Consultant",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          14.99,
-          21.66
-        ],
+        "hours": [8],
+        "salary_range": [14.99, 21.66],
         "job_type": "Traveler"
       },
       {
@@ -3145,13 +2800,8 @@
         "city": "Blairsville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Hospice Care Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          32.59,
-          51.19
-        ],
+        "hours": [16],
+        "salary_range": [32.59, 51.19],
         "job_type": "Full-time"
       },
       {
@@ -3189,13 +2839,8 @@
         "city": "Blairsville, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Home Care Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          30.32,
-          44.83
-        ],
+        "hours": [10],
+        "salary_range": [30.32, 44.83],
         "job_type": "Part-time"
       }
     ]
@@ -3240,13 +2885,8 @@
         "city": "Metairie, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "LPN Primary Care",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          25.28,
-          39.52
-        ],
+        "hours": [8],
+        "salary_range": [25.28, 39.52],
         "job_type": "Part-time"
       },
       {
@@ -3284,13 +2924,8 @@
         "city": "Metairie, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Emergency Room Registered Nurse",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          34.01,
-          52.92
-        ],
+        "hours": [8],
+        "salary_range": [34.01, 52.92],
         "job_type": "Traveler"
       },
       {
@@ -3328,13 +2963,8 @@
         "city": "Metairie, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Hospice Care Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          31.95,
-          51.04
-        ],
+        "hours": [16],
+        "salary_range": [31.95, 51.04],
         "job_type": "Per-Diem"
       },
       {
@@ -3372,13 +3002,8 @@
         "city": "Metairie, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Otolaryngology Nurse Practitioner",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          45.61,
-          71.05
-        ],
+        "hours": [24],
+        "salary_range": [45.61, 71.05],
         "job_type": "Part-time"
       },
       {
@@ -3416,13 +3041,8 @@
         "city": "Metairie, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Scrub Nurse",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          31.53,
-          51.25
-        ],
+        "hours": [8],
+        "salary_range": [31.53, 51.25],
         "job_type": "Traveler"
       }
     ]
@@ -3467,13 +3087,8 @@
         "city": "Warm Springs, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Travel Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          39.8,
-          52.26
-        ],
+        "hours": [10],
+        "salary_range": [39.8, 52.26],
         "job_type": "Part-time"
       },
       {
@@ -3511,13 +3126,8 @@
         "city": "Warm Springs, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Bone Marrow Transplant Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          26.26,
-          43.98
-        ],
+        "hours": [12],
+        "salary_range": [26.26, 43.98],
         "job_type": "Part-time"
       },
       {
@@ -3555,13 +3165,8 @@
         "city": "Warm Springs, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nurse Anesthesiologist",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          35.68,
-          58.01
-        ],
+        "hours": [16],
+        "salary_range": [35.68, 58.01],
         "job_type": "Full-time"
       },
       {
@@ -3599,13 +3204,8 @@
         "city": "Warm Springs, GA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Head OR Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          29.01,
-          44.83
-        ],
+        "hours": [16],
+        "salary_range": [29.01, 44.83],
         "job_type": "Part-time"
       }
     ]
@@ -3650,13 +3250,8 @@
         "city": "Gonzales, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Public Health Nurse",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          34.75,
-          50.73
-        ],
+        "hours": [24],
+        "salary_range": [34.75, 50.73],
         "job_type": "Per-Diem"
       },
       {
@@ -3694,13 +3289,8 @@
         "city": "Gonzales, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Emergency Room Nurse Practitioner",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          46.22,
-          77.75
-        ],
+        "hours": [12],
+        "salary_range": [46.22, 77.75],
         "job_type": "Part-time"
       },
       {
@@ -3738,13 +3328,8 @@
         "city": "Gonzales, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Telemetry Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          32.74,
-          52.43
-        ],
+        "hours": [12],
+        "salary_range": [32.74, 52.43],
         "job_type": "Per-Diem"
       },
       {
@@ -3782,13 +3367,8 @@
         "city": "Gonzales, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Rheumatology Nurse Practitioner",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          79.88,
-          126.61
-        ],
+        "hours": [24],
+        "salary_range": [79.88, 126.61],
         "job_type": "Part-time"
       },
       {
@@ -3826,13 +3406,8 @@
         "city": "Gonzales, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Cardiothoracic Nurse Practitioner",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          45.43,
-          74.74
-        ],
+        "hours": [12],
+        "salary_range": [45.43, 74.74],
         "job_type": "Traveler"
       },
       {
@@ -3870,13 +3445,8 @@
         "city": "Gonzales, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Head Psychiatric Nurse",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          34.45,
-          49.07
-        ],
+        "hours": [24],
+        "salary_range": [34.45, 49.07],
         "job_type": "Traveler"
       }
     ]
@@ -3921,13 +3491,8 @@
         "city": "New Orleans, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Oncology Nurse Practitioner",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          48.99,
-          74.06
-        ],
+        "hours": [16],
+        "salary_range": [48.99, 74.06],
         "job_type": "Traveler"
       },
       {
@@ -3965,13 +3530,8 @@
         "city": "New Orleans, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Lead Charge Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          38.8,
-          63.59
-        ],
+        "hours": [16],
+        "salary_range": [38.8, 63.59],
         "job_type": "Full-time"
       },
       {
@@ -4009,13 +3569,8 @@
         "city": "New Orleans, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nursing Manager",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          38.97,
-          61.43
-        ],
+        "hours": [10],
+        "salary_range": [38.97, 61.43],
         "job_type": "Part-time"
       },
       {
@@ -4053,13 +3608,8 @@
         "city": "New Orleans, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "LPN RN Telemetry",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          40.53,
-          59.11
-        ],
+        "hours": [24],
+        "salary_range": [40.53, 59.11],
         "job_type": "Full-time"
       },
       {
@@ -4097,13 +3647,8 @@
         "city": "New Orleans, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Opthamologist",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          37.43,
-          57.23
-        ],
+        "hours": [10],
+        "salary_range": [37.43, 57.23],
         "job_type": "Traveler"
       },
       {
@@ -4141,13 +3686,8 @@
         "city": "New Orleans, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Oncology Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          30.88,
-          47.63
-        ],
+        "hours": [10],
+        "salary_range": [30.88, 47.63],
         "job_type": "Per-Diem"
       }
     ]
@@ -4192,13 +3732,8 @@
         "city": "Franklin, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Bone Marrow Transplant Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          26.48,
-          44.15
-        ],
+        "hours": [10],
+        "salary_range": [26.48, 44.15],
         "job_type": "Part-time"
       },
       {
@@ -4236,13 +3771,8 @@
         "city": "Franklin, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Endoscopy Nurse",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          33.97,
-          50.35
-        ],
+        "hours": [8],
+        "salary_range": [33.97, 50.35],
         "job_type": "Full-time"
       },
       {
@@ -4280,13 +3810,8 @@
         "city": "Franklin, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "LPN Urgent Care",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          23.21,
-          42.74
-        ],
+        "hours": [16],
+        "salary_range": [23.21, 42.74],
         "job_type": "Full-time"
       },
       {
@@ -4324,13 +3849,8 @@
         "city": "Franklin, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nurse Practitioner Behavioral Health",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          37.89,
-          64.56
-        ],
+        "hours": [10],
+        "salary_range": [37.89, 64.56],
         "job_type": "Traveler"
       },
       {
@@ -4368,13 +3888,8 @@
         "city": "Franklin, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "RN Outpatient Surgery",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          29.86,
-          47.44
-        ],
+        "hours": [8],
+        "salary_range": [29.86, 47.44],
         "job_type": "Part-time"
       }
     ]
@@ -4419,13 +3934,8 @@
         "city": "Houma, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Obstetrics Nurse",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          40.12,
-          58.55
-        ],
+        "hours": [8],
+        "salary_range": [40.12, 58.55],
         "job_type": "Traveler"
       },
       {
@@ -4463,13 +3973,8 @@
         "city": "Houma, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Physiatry Nurse Practitioner",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          24.57,
-          32.39
-        ],
+        "hours": [16],
+        "salary_range": [24.57, 32.39],
         "job_type": "Per-Diem"
       },
       {
@@ -4507,13 +4012,8 @@
         "city": "Houma, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Anesthesiology Crna",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          56.23,
-          97.47
-        ],
+        "hours": [10],
+        "salary_range": [56.23, 97.47],
         "job_type": "Full-time"
       },
       {
@@ -4551,13 +4051,8 @@
         "city": "Houma, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Family Nurse Practitioner",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          39.54,
-          72.84
-        ],
+        "hours": [10],
+        "salary_range": [39.54, 72.84],
         "job_type": "Traveler"
       }
     ]
@@ -4602,13 +4097,8 @@
         "city": "Indianapolis, IN",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Obstetrics Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          39.6,
-          58.14
-        ],
+        "hours": [16],
+        "salary_range": [39.6, 58.14],
         "job_type": "Traveler"
       },
       {
@@ -4646,13 +4136,8 @@
         "city": "Indianapolis, IN",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Weekend Nurse",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          32.02,
-          49.34
-        ],
+        "hours": [16],
+        "salary_range": [32.02, 49.34],
         "job_type": "Traveler"
       },
       {
@@ -4690,13 +4175,8 @@
         "city": "Indianapolis, IN",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Urology Nurse Practitioner",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          43.35,
-          71.73
-        ],
+        "hours": [8],
+        "salary_range": [43.35, 71.73],
         "job_type": "Full-time"
       },
       {
@@ -4734,13 +4214,8 @@
         "city": "Indianapolis, IN",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Maternal and Child Health",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          38.86,
-          57.38
-        ],
+        "hours": [24],
+        "salary_range": [38.86, 57.38],
         "job_type": "Per-Diem"
       },
       {
@@ -4778,13 +4253,8 @@
         "city": "Indianapolis, IN",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Maternal and Child Health",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          39.52,
-          57.87
-        ],
+        "hours": [12],
+        "salary_range": [39.52, 57.87],
         "job_type": "Full-time"
       }
     ]
@@ -4829,13 +4299,8 @@
         "city": "Kaplan, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Hospice Care Nurse",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          32.92,
-          51.94
-        ],
+        "hours": [8],
+        "salary_range": [32.92, 51.94],
         "job_type": "Per-Diem"
       },
       {
@@ -4873,13 +4338,8 @@
         "city": "Kaplan, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Ambulatory Pacu Nurse",
-        "hours": [
-          8
-        ],
-        "salary_range": [
-          33.41,
-          53.78
-        ],
+        "hours": [8],
+        "salary_range": [33.41, 53.78],
         "job_type": "Traveler"
       },
       {
@@ -4917,13 +4377,8 @@
         "city": "Kaplan, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Burn Unit RN",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          30.74,
-          45.42
-        ],
+        "hours": [10],
+        "salary_range": [30.74, 45.42],
         "job_type": "Full-time"
       },
       {
@@ -4961,13 +4416,8 @@
         "city": "Kaplan, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Nurse Unit Manager",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          33.61,
-          55.07
-        ],
+        "hours": [24],
+        "salary_range": [33.61, 55.07],
         "job_type": "Traveler"
       },
       {
@@ -5005,13 +4455,8 @@
         "city": "Kaplan, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "LPN RN Telemetry",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          41.14,
-          59.77
-        ],
+        "hours": [12],
+        "salary_range": [41.14, 59.77],
         "job_type": "Per-Diem"
       },
       {
@@ -5049,13 +4494,8 @@
         "city": "Kaplan, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Orthopaedic Nurse Practitioner",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          39.62,
-          68.95
-        ],
+        "hours": [10],
+        "salary_range": [39.62, 68.95],
         "job_type": "Part-time"
       }
     ]
@@ -5100,13 +4540,8 @@
         "city": "Lutcher, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Assistant Nurse Manager",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          34.22,
-          58.5
-        ],
+        "hours": [16],
+        "salary_range": [34.22, 58.5],
         "job_type": "Part-time"
       },
       {
@@ -5144,13 +4579,8 @@
         "city": "Lutcher, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Orthopedic Surgeon",
-        "hours": [
-          16
-        ],
-        "salary_range": [
-          77.35,
-          130.44
-        ],
+        "hours": [16],
+        "salary_range": [77.35, 130.44],
         "job_type": "Traveler"
       },
       {
@@ -5188,13 +4618,8 @@
         "city": "Lutcher, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Head ER Nurse",
-        "hours": [
-          24
-        ],
-        "salary_range": [
-          32.59,
-          48.63
-        ],
+        "hours": [24],
+        "salary_range": [32.59, 48.63],
         "job_type": "Part-time"
       },
       {
@@ -5232,13 +4657,8 @@
         "city": "Lutcher, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Trauma Nurse Practitioner",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          38.87,
-          69.35
-        ],
+        "hours": [10],
+        "salary_range": [38.87, 69.35],
         "job_type": "Full-time"
       },
       {
@@ -5276,13 +4696,8 @@
         "city": "Lutcher, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Pediatric Nurse Practitioner",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          40.08,
-          66.64
-        ],
+        "hours": [12],
+        "salary_range": [40.08, 66.64],
         "job_type": "Full-time"
       },
       {
@@ -5320,13 +4735,8 @@
         "city": "Lutcher, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Head OR Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          29.29,
-          45.42
-        ],
+        "hours": [12],
+        "salary_range": [29.29, 45.42],
         "job_type": "Part-time"
       },
       {
@@ -5364,13 +4774,8 @@
         "city": "Lutcher, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Advanced Practice Nurse",
-        "hours": [
-          12
-        ],
-        "salary_range": [
-          36.26,
-          60.27
-        ],
+        "hours": [12],
+        "salary_range": [36.26, 60.27],
         "job_type": "Per-Diem"
       },
       {
@@ -5408,13 +4813,8 @@
         "city": "Lutcher, LA",
         "description": "Within the context of a client and family centred model of care, and in accordance with the Mission, Vision, Values and strategic directions of Providence Health Care, the person promotes a safe, respectful, and civil working environment for patients, residents, families, visitors and staff",
         "job_title": "Home Health Nurse",
-        "hours": [
-          10
-        ],
-        "salary_range": [
-          32.24,
-          53.48
-        ],
+        "hours": [10],
+        "salary_range": [32.24, 53.48],
         "job_type": "Part-time"
       }
     ]
