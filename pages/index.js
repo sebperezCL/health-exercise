@@ -1,4 +1,5 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
+import useSWR from 'swr';
 import 'tailwindcss/tailwind.css';
 
 import Layout from '../components/layout/layout';
@@ -8,6 +9,13 @@ import FilterCard from '../components/filterCard';
 
 const Index = () => {
   const [searchValue, setSearchValue] = useState('');
+
+  const { data: filtersFetch, error } = useSWR('/api/filters', fetch);
+
+  useEffect(() => {
+    if (filtersFetch) filtersFetch.json().then(data => console.log(data));
+    console.log(filtersFetch);
+  }, [filtersFetch]);
 
   return (
     <Layout>
