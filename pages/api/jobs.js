@@ -22,6 +22,7 @@ export default async (req, res) => {
         createResponseObject(filterByAttribute(jobs, type, value))
       );
     }
+
     const responseJobs = filterByKeyword(jobs, value);
     const totalJobs = calculateTotalJobs(responseJobs);
     return res.json({ jobs: responseJobs, totalJobs });
