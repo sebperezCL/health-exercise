@@ -1,4 +1,6 @@
-import jobs from '../../data/jobs';
+import readData from '../../lib/readData';
+
+const { jobs, index } = readData();
 
 export default async (req, res) => {
   res.statusCode = 200;
@@ -11,7 +13,12 @@ export default async (req, res) => {
   await new Promise(resolve => setTimeout(resolve, 1000 * Math.random()));
   if (req.query?.type) {
     const { type, value } = req.query;
-    const responseJobs = filterByAttribute(jobs, type, value);
+    if (type !== 'keyword') {
+      const responseJobs = filterByAttribute(jobs, type, value);
+      const totalJobs = calculateTotalJobs(responseJobs);
+      return res.json({ jobs: responseJobs, totalJobs });
+    }
+    const responseJobs = filterByKeyword(jobs, value);
     const totalJobs = calculateTotalJobs(responseJobs);
     return res.json({ jobs: responseJobs, totalJobs });
   }
@@ -41,3 +48,33 @@ const filterByAttribute = (jobs, attribute, value) => {
   });
   return result;
 };
+
+const filterByKeyword = (jobs, value) => {
+  const result = [];
+  const searchValues = value.toLowerCase().split(' ');
+
+  // Look for the intersection within the search values array and
+  // index array to get the job id's
+  const ids = index
+    .filter(job => {
+      const newArray = intersect(job.values, searchValues);
+      return newArray.length === searchValues.length;
+    })
+    .map(entry => entry.job_id);
+
+  jobs.map(hospital => {
+    const newValue = { ...hospital };
+    newValue.items = hospital.items?.filter(item => ids.includes(item.job_id));
+    newValue.total_jobs_in_hospital = newValue.items.length;
+    result.push(newValue);
+  });
+
+  return result;
+};
+
+function intersect(a, b) {
+  const setA = new Set(a);
+  const setB = new Set(b);
+  const intersection = new Set([...setA].filter(x => setB.has(x)));
+  return Array.from(intersection);
+}

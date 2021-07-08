@@ -1,8 +1,6 @@
 import { XCircleIcon } from '@heroicons/react/outline';
 import { useState } from 'react';
 
-import Button from './shared/button';
-
 const SearchBar = ({ searchValue, setSearchValue }) => {
   const [inputValue, setInputValue] = useState('');
 
@@ -17,7 +15,8 @@ const SearchBar = ({ searchValue, setSearchValue }) => {
 
   const handleSubmit = event => {
     event.preventDefault();
-    console.log(searchValue);
+    setSearchValue({ type: 'keyword', value: inputValue, title: 'Keyword' });
+    console.log(inputValue);
   };
 
   return (
