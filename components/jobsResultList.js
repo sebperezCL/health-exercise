@@ -1,19 +1,13 @@
 import JobGroup from './jobGroup';
 import JobsCounter from './jobsCounter';
+import SortBar from './sortBar';
 
-const JobsResultsList = ({ jobsData, filter }) => {
+const JobsResultsList = ({ jobsData, filter, setSort, sort }) => {
   return (
     <div className="md:col-span-4 bg-white border border-gray-200 rounded-lg">
       <div className="flex justify-between m-3">
         <JobsCounter jobsCount={jobsData?.totalJobs} filter={filter} />
-        <div className="hidden md:flex md:justify-start">
-          <span className="text-sm font-semibold px-3">Sort by</span>
-          <span className="text-sm font-light px-3">Location</span>
-          <span className="text-sm font-light px-3">Role</span>
-          <span className="text-sm font-light px-3">Department</span>
-          <span className="text-sm font-light px-3">Education</span>
-          <span className="text-sm font-light px-3">Experience</span>
-        </div>
+        <SortBar setSort={setSort} sort={sort} />
       </div>
       <div className="flex flex-col m-3">
         {jobsData.jobs?.map((job, i) => (

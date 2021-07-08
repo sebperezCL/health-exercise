@@ -11,12 +11,16 @@ export default async (req, res) => {
   // you need to figure out how to guarantee that client side will render
   // correct results even if server-side can't finish replies in the right order
   await new Promise(resolve => setTimeout(resolve, 1000 * Math.random()));
+
   if (req.query?.type) {
     const { type, value } = req.query;
     if (type !== 'keyword') {
-      const responseJobs = filterByAttribute(jobs, type, value);
+      /*const responseJobs = filterByAttribute(jobs, type, value);
       const totalJobs = calculateTotalJobs(responseJobs);
-      return res.json({ jobs: responseJobs, totalJobs });
+      return res.json({ jobs: responseJobs, totalJobs });*/
+      return res.json(
+        createResponseObject(filterByAttribute(jobs, type, value))
+      );
     }
     const responseJobs = filterByKeyword(jobs, value);
     const totalJobs = calculateTotalJobs(responseJobs);
@@ -24,6 +28,10 @@ export default async (req, res) => {
   }
   const totalJobs = calculateTotalJobs(jobs);
   return res.json({ jobs: jobs, totalJobs });
+};
+
+const createResponseObject = jobs => {
+  return { jobs, totalJobs: calculateTotalJobs(jobs) };
 };
 
 const calculateTotalJobs = jobs => {

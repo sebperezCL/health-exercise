@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import useSWR from 'swr';
 import axios from 'axios';
 import 'tailwindcss/tailwind.css';
+import queryString from 'query-string';
 
 import Layout from '../components/layout/layout';
 import SearchBar from '../components/searchBar';
@@ -11,6 +12,7 @@ import JobsResultsList from '../components/jobsResultList';
 const Index = () => {
   const [searchValue, setSearchValue] = useState({});
   const [searchUrl, setSearchUrl] = useState('/api/jobs');
+  const [sort, setSort] = useState({});
   const [filters, setFilters] = useState({});
   const [jobs, setJobs] = useState({});
   const fetcher = url => axios.get(url).then(res => res.data);
@@ -19,14 +21,17 @@ const Index = () => {
   const { data: filtersFetch } = useSWR('/api/filters', fetcher);
   const { data: jobsFetch } = useSWR(searchUrl, fetcher);
 
+  // To build the url to call the api based in sort and filters objects.
   useEffect(() => {
+    const sortString = queryStringFromObject(sort);
+
     if (searchValue?.type) {
       return setSearchUrl(
-        `/api/jobs?type=${searchValue?.type}&value=${searchValue?.value}`
+        `/api/jobs?type=${searchValue?.type}&value=${searchValue?.value}&${sortString}`
       );
     }
-    setSearchUrl('/api/jobs');
-  }, [searchValue]);
+    setSearchUrl(`/api/jobs?${sortString}`);
+  }, [searchValue, sort]);
 
   useEffect(() => {
     if (filtersFetch) setFilters(filtersFetch);
@@ -36,6 +41,14 @@ const Index = () => {
     if (jobsFetch) setJobs(jobsFetch);
     console.log(jobsFetch);
   }, [jobsFetch]);
+
+  const queryStringFromObject = filters => {
+    return queryString.stringify(
+      Object.fromEntries(
+        Object.entries(filters).filter(value => (value[1] ? value : null))
+      )
+    );
+  };
 
   return (
     <Layout>
@@ -72,9 +85,13 @@ const Index = () => {
                 className="mt-3"
               />
             </div>
-            <JobsResultsList jobsData={jobs} filter={searchValue} />
+            <JobsResultsList
+              jobsData={jobs}
+              filter={searchValue}
+              setSort={setSort}
+              sort={sort}
+            />
           </div>
-          {/* <!-- /End replace --> */}
         </div>
       </main>
     </Layout>
