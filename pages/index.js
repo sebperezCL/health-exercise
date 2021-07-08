@@ -12,7 +12,6 @@ import JobsResultsList from '../components/jobsResultList';
 const Index = () => {
   const [searchValue, setSearchValue] = useState({});
   const [searchUrl, setSearchUrl] = useState('/api/jobs');
-  const [sort, setSort] = useState({});
   const [filters, setFilters] = useState({});
   const [jobs, setJobs] = useState({});
   const fetcher = url => axios.get(url).then(res => res.data);
@@ -23,32 +22,21 @@ const Index = () => {
 
   // To build the url to call the api based in sort and filters objects.
   useEffect(() => {
-    const sortString = queryStringFromObject(sort);
-
     if (searchValue?.type) {
       return setSearchUrl(
-        `/api/jobs?type=${searchValue?.type}&value=${searchValue?.value}&${sortString}`
+        `/api/jobs?type=${searchValue?.type}&value=${searchValue?.value}`
       );
     }
-    setSearchUrl(`/api/jobs?${sortString}`);
-  }, [searchValue, sort]);
+    setSearchUrl(`/api/jobs`);
+  }, [searchValue]);
 
   useEffect(() => {
     if (filtersFetch) setFilters(filtersFetch);
   }, [filtersFetch]);
 
   useEffect(() => {
-    if (jobsFetch) setJobs(jobsFetch);
-    console.log(jobsFetch);
+    if (jobsFetch) setJobs({ ...jobsFetch, unSorted: [...jobsFetch?.jobs] });
   }, [jobsFetch]);
-
-  const queryStringFromObject = filters => {
-    return queryString.stringify(
-      Object.fromEntries(
-        Object.entries(filters).filter(value => (value[1] ? value : null))
-      )
-    );
-  };
 
   return (
     <Layout>
@@ -88,8 +76,7 @@ const Index = () => {
             <JobsResultsList
               jobsData={jobs}
               filter={searchValue}
-              setSort={setSort}
-              sort={sort}
+              setJobs={setJobs}
             />
           </div>
         </div>
