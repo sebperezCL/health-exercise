@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-const Button = ({ children, size }) => {
+const Button = ({ children, size, ...props }) => {
   const [style, setStyle] = useState(
     'bg-transparent hover:bg-blue-500 text-blue-500 hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded-lg'
   );
@@ -13,7 +13,11 @@ const Button = ({ children, size }) => {
     }
   }, [size]);
 
-  return <button className={style}>{children}</button>;
+  return (
+    <button className={style} {...props}>
+      {children}
+    </button>
+  );
 };
 
 export default Button;

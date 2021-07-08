@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import useSWR from 'swr';
+import axios from 'axios';
 import 'tailwindcss/tailwind.css';
 
 import Layout from '../components/layout/layout';
@@ -8,55 +9,70 @@ import FilterCard from '../components/filterCard';
 import JobsResultsList from '../components/jobsResultList';
 
 const Index = () => {
-  const [searchValue, setSearchValue] = useState('');
+  const [searchValue, setSearchValue] = useState({});
+  const [searchUrl, setSearchUrl] = useState('/api/jobs');
   const [filters, setFilters] = useState({});
   const [jobs, setJobs] = useState({});
+  const fetcher = url => axios.get(url).then(res => res.data);
 
   // Using SWR to deal with slow api, caching the response results
-  const { data: filtersFetch } = useSWR('/api/filters', fetch);
-  const { data: jobsFetch } = useSWR('/api/jobs', fetch);
+  const { data: filtersFetch } = useSWR('/api/filters', fetcher);
+  const { data: jobsFetch } = useSWR(searchUrl, fetcher);
 
   useEffect(() => {
-    if (filtersFetch)
-      filtersFetch
-        .json()
-        .then(data => setFilters(data))
-        .catch(err => console.log(err));
+    if (searchValue?.type) {
+      return setSearchUrl(
+        `/api/jobs?type=${searchValue?.type}&value=${searchValue?.value}`
+      );
+    }
+    setSearchUrl('/api/jobs');
+  }, [searchValue]);
+
+  useEffect(() => {
+    if (filtersFetch) setFilters(filtersFetch);
   }, [filtersFetch]);
 
   useEffect(() => {
-    if (jobsFetch)
-      jobsFetch
-        .json()
-        .then(data => setJobs(data))
-        .catch(err => console.log(err));
+    if (jobsFetch) setJobs(jobsFetch);
+    console.log(jobsFetch);
   }, [jobsFetch]);
 
   return (
     <Layout>
-      <SearchBar />
+      <SearchBar setSearchValue={setSearchValue} searchValue={searchValue} />
       <main className="mx-auto">
         <div className="mx-0 md:mx-4">
           <div className="block md:grid md:grid-cols-5 md:gap-3 px-0 h-full">
             <div className="hidden md:flex md:flex-col">
-              <FilterCard title="Job Type" items={filters['job_type'] ?? {}} />
               <FilterCard
+                setSearchValue={setSearchValue}
+                searchAttribute="job_type"
+                title="Job Type"
+                items={filters['job_type'] ?? {}}
+              />
+              <FilterCard
+                setSearchValue={setSearchValue}
                 title="Department"
+                searchAttribute="department"
                 items={filters['department'] ?? {}}
                 className="mt-3"
               />
               <FilterCard
+                setSearchValue={setSearchValue}
                 title="Work Schedule"
+                searchAttribute="work_schedule"
                 items={filters['work_schedule'] ?? {}}
                 className="mt-3"
               />
               <FilterCard
+                setSearchValue={setSearchValue}
                 title="Experience"
+                searchAttribute="experience"
                 items={filters['experience'] ?? {}}
                 className="mt-3"
               />
             </div>
-            <JobsResultsList jobsData={jobs} />
+            <JobsResultsList jobsData={jobs} filter={searchValue} />
           </div>
           {/* <!-- /End replace --> */}
         </div>

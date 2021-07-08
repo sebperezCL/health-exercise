@@ -1,6 +1,18 @@
+import { XCircleIcon } from '@heroicons/react/outline';
+import { useState } from 'react';
+
+import Button from './shared/button';
+
 const SearchBar = ({ searchValue, setSearchValue }) => {
+  const [inputValue, setInputValue] = useState('');
+
   const handleChange = event => {
-    setSearchValue(event.target.value);
+    setInputValue(event.target.value);
+  };
+
+  const handleClear = () => {
+    setInputValue('');
+    setSearchValue({});
   };
 
   const handleSubmit = event => {
@@ -11,7 +23,7 @@ const SearchBar = ({ searchValue, setSearchValue }) => {
   return (
     <header className="bg-white shadow md:m-4 border-t-2 md:border-none rounded-lg">
       <form onSubmit={handleSubmit}>
-        <div className="mx-auto py-6 px-4 sm:px-6 lg:px-8 flex justify-start">
+        <div className="mx-auto py-6 px-4 sm:px-6 lg:px-8 flex justify-start items-center">
           <div className="flex items-center">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -31,9 +43,14 @@ const SearchBar = ({ searchValue, setSearchValue }) => {
           <input
             className="w-full h-4 pl-2 outline-none"
             type="text"
-            placeholder="Search for any job, title, keywords or company"
-            value={searchValue}
+            placeholder="Search for any job, title, keywords or company and press 'Enter'"
+            value={inputValue}
             onChange={handleChange}
+          />
+          <XCircleIcon
+            className="h-6 w-6"
+            onClick={handleClear}
+            role="button"
           />
         </div>
       </form>

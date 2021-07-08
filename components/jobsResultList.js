@@ -1,18 +1,11 @@
-import { useEffect } from 'react';
-
 import JobGroup from './jobGroup';
+import JobsCounter from './jobsCounter';
 
-const JobsResultsList = ({ jobsData }) => {
-  useEffect(() => {
-    console.log(jobsData);
-  }, [jobsData]);
+const JobsResultsList = ({ jobsData, filter }) => {
   return (
     <div className="md:col-span-4 bg-white border border-gray-200 rounded-lg">
       <div className="flex justify-between m-3">
-        <div className="flex justify-start">
-          <span className="text-sm font-semibold">{jobsData?.totalJobs}</span>
-          <span className="text-sm font-light pl-1">jobs postings</span>
-        </div>
+        <JobsCounter jobsCount={jobsData?.totalJobs} filter={filter} />
         <div className="hidden md:flex md:justify-start">
           <span className="text-sm font-semibold px-3">Sort by</span>
           <span className="text-sm font-light px-3">Location</span>

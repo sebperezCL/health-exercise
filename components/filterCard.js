@@ -1,6 +1,16 @@
 import clsx from 'clsx';
 
-const FilterCard = ({ title, items, ...props }) => {
+const FilterCard = ({
+  searchAttribute,
+  setSearchValue,
+  title,
+  items,
+  ...props
+}) => {
+  const handleClick = key => {
+    setSearchValue({ type: searchAttribute, value: key, title });
+  };
+
   return (
     <div {...props}>
       <div className="w-full bg-white border border-gray-200 rounded-lg">
@@ -18,7 +28,13 @@ const FilterCard = ({ title, items, ...props }) => {
                       : 'items-end justify-start',
                   ])}
                 >
-                  <span className="text-sm font-light">{item.key}</span>
+                  <span
+                    role="button"
+                    onClick={() => handleClick(item.key)}
+                    className="text-sm font-light"
+                  >
+                    {item.key}
+                  </span>
                   <span className="text-xs font-normal pl-2 text-gray-400">
                     {item.doc_count}
                   </span>
