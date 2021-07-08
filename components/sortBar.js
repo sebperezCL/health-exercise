@@ -25,7 +25,6 @@ const SortBar = ({ jobsData, filter, setJobs }) => {
           'job_title'
         );
       if (sort['Total Jobs']) {
-        console.log('aca');
         result = sortHelper(
           result.length > 0 ? result : jobs,
           'Total Jobs',

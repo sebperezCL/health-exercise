@@ -16,7 +16,6 @@ const SearchBar = ({ searchValue, setSearchValue }) => {
   const handleSubmit = event => {
     event.preventDefault();
     setSearchValue({ type: 'keyword', value: inputValue, title: 'Keyword' });
-    console.log(inputValue);
   };
 
   return (
